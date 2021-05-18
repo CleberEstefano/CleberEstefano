@@ -1,9 +1,2 @@
-- 👋 Hi, I’m @CleberEstefano
-- 👀 I’m interested in data science, technology and robotics
-- 🌱 I’m currently learning data science
-
-
-<!---
-CleberEstefano/CleberEstefano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Olá,
+sou Cleber Estefano, estusiasta da Ciência de Dados com formação superior em Física e extensão em Matemática; sou programador utilizando as linguagens mais atuais como Python e C#.
