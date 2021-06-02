@@ -1,4 +1,4 @@
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/CleberEstefano/CleberEstefano/blob/main/banner_cleber.jpg?raw=true)
 <h3>Olá, sou Cleber Estefano,</h3>
   <i>Físico teórico, Matemático profissional da área de tecnologia com atuação em automação, programação e configuração de ambientes de rede.</i>
      <br>Estudante de Ciência de Dados com conhecimentos em metodologias ágeis (SCRUM/KANBAN), programação (C/Python/Java/HTML) além de Hadoop, Spark, R.
